@@ -15,11 +15,11 @@
 <h3 align="center">🔭 I’m currently working on ... 🔭</h3>
 <h4 align="center">
 
-🟢 FayMediaLanguage
-
-🟢 Joke´s Web System
-
-🟡 Fay Systems
+🟢 Paneled API
+  
+🟢 Coming soon...
+  
+🟡 FayMediaLanguage
 
 🟡 Joke´s Discord Bot
 </h4>
