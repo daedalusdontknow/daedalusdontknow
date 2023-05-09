@@ -15,11 +15,11 @@
 <h3 align="center">🔭 I’m currently working on ... 🔭</h3>
 <h4 align="center">
 
-🟢 Paneled API
+🟢 Wechslerein (Inverter manager)
   
-🟢 Coming soon...
+🟢 Global Bot
   
-🟡 FayMediaLanguage
+🟡 Ant Simulation
 
 🟡 Joke´s Discord Bot
 </h4>
@@ -31,6 +31,7 @@
 ![Typo3](https://img.shields.io/badge/-Typo3-yellow?style=for-the-badge&logo=typo3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge&logo=Tailwindcss&logoColor=white)
 <h3 align="center">
 
 <h3 align="center">🤔 About Me... 🤔</h3>
@@ -53,5 +54,7 @@ Coming soon...
 </h5>
 <h3 align="center">👤 Contact 👤</h3>
 <h5 align="center">
-Feel free to Contact me on Github or Discord : PhilippG#0887
+Feel free to Contact me on Github or Discord : PhilippG#5161
 </h5>
+
+<p><font size="1">Updated 09.05.2023 07:36</font></p>
