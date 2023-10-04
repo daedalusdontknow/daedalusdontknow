@@ -17,11 +17,9 @@
 
 🟢 Wechslerein (Inverter manager)
   
-🟢 Global Bot
+🟢 City Simulation
   
 🟡 Ant Simulation
-
-🟡 Joke´s Discord Bot
 </h4>
 <h6 align="center">📜 🟢 : Active, 🟡 : Paused 📜</h6>
 
