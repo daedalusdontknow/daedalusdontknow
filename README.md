@@ -12,6 +12,8 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![Wakatime](https://wakatime.com/badge/user/41d04eaf-95df-4a5f-8ba4-a4923cca9bbc.svg)
 </h3>
 
 <h3 align="center">🔭 I’m currently working on ... 🔭</h3>
