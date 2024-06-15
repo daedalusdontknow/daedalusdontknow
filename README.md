@@ -10,6 +10,9 @@
 ![.NET](https://img.shields.io/badge/.NET-8B00FF?style=for-the-badge&logo=.NET&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 </h3>
 
 <h3 align="center">🔭 I’m currently working on ... 🔭</h3>
@@ -52,7 +55,7 @@ Coming soon...
 </h5>
 <h3 align="center">👤 Contact 👤</h3>
 <h5 align="center">
-Feel free to Contact me on Github or Discord : PhilippG#5161
+Feel free to Contact me on Github or Discord : philipp.g.
 </h5>
 
-<p><font size="1">Updated 09.05.2023 07:36</font></p>
+<p><font size="1">Updated 15.06.2024 09:43</font></p>
