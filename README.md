@@ -19,14 +19,7 @@
 
 <h3 align="center"> Currently working on </h3>
 <h4 align="center">
-  
-🟢 danmark.science & danmark.site
-
-🟢 Gonitianer & Fisccher IT
-
-🟢 Yourinventory.org
-  
-🟡 City Simulation
+-
 </h4>
 <h6 align="center"> 🟢 : Active, 🟡 : Paused </h6>
 
@@ -57,11 +50,6 @@ Coming soon...
 <h3 align="center">Contact </h3>
 <h5 align="center">
 Feel free to Contact me on Github or Discord : philipp.g.
-</h5>
-
-<h5 align="center">
-  
-![user count](https://profile-counter.glitch.me/daedalusdontknow/count.svg)
 </h5>
 
 <p><font size="1">Updated 01.04.2025 08:50</font></p>
